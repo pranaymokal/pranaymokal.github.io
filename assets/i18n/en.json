@@ -68,9 +68,10 @@
   "publishblog" : "Publish Blog",
   "appdeveloper" : "App Developer",
   "pranaymokal" : "Pranay Sanjay Mokal",
-  "aayurveda": "Aayurveda",
+  "feedback": "Send Feedback",
   "addrecepie" : "Add Recepie",
   "recepiename" : "Recepie Name",
   "recepiecategories" : "Recepie Category",
-  "writerecepieshere": "Write Recepie Here"
+  "writerecepieshere": "Write Recepie Here",
+  "typefeedbackhere" : "Type Feedback Here"
   }
