@@ -1,75 +1,57 @@
 @import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
-
 * {
   font-family: 'Roboto', sans-serif;
 }
-
 a, .cp {
   cursor: pointer;
 }
-
 .section-title {
   text-align: center;
   font-size: 1.5em;
   font-weight: 300;
   padding: 1em 0 0;
 }
-
 .flex-spacer {
   flex-grow: 1;
 }
-
 snack-bar-container {
-  background: #097feedc !important;
+  background: #097fee;
 }
-// .mat-menu-content {
-//   background: #3f51b5;
-// }
-
 .mat-menu-item, .mat-menu-item .mat-icon {
   color: black;
   background: white;
   font-weight: 100;
 }
-
 .like-icon {
-  color: #DC143C;
+  color: #dc143c;
   cursor: pointer;
 }
-
 .mat-raised-button[disabled] {
-  background: #bbb !important;
+  background: #bbb
+  ;
 }
-
 .mat-dialog-container {
   background: #3f51b5;
   color: white;
 }
-
 .mat-dialog-content {
   text-align: center;
-  padding: 1em 24px !important;
+  padding: 1em 24px;
 }
-
 .mat-dialog-title {
   text-align: center;
 }
-
 .mat-card-image {
-  margin-bottom: -28px !important;
+  margin-bottom: -28px;
   border-top: 1px solid #eee;
 }
-
 .mat-list-avatar {
-  height: 55px !important;
-  width: 55px !important;
+  height: 55px;
+  width: 55px;
 }
-
 .text-center {
   text-align: center;
 }
-
 .text-right {
   text-align: right;
 }
-
