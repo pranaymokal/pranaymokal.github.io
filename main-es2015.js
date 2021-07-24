@@ -61,7 +61,7 @@ class AboutComponent {
     }
 }
 AboutComponent.ɵfac = function AboutComponent_Factory(t) { return new (t || AboutComponent)(); };
-AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutComponent, selectors: [["app-about"]], decls: 22, vars: 6, consts: [[1, "form-container"], ["mat-card-image", "", "src", "assets/images/developer/pranaymokal.png", "height", "550"], [2, "margin-bottom", "20px", "margin-left", "10px", "margin-top", "20px"], [2, "margin-top", "20px", "margin-left", "10px"], ["href", "mailto:pranay.mokal@gmail.com"], ["mat-raised-button", ""], ["routerLink", "/feedback", "mat-raised-button", ""]], template: function AboutComponent_Template(rf, ctx) { if (rf & 1) {
+AboutComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AboutComponent, selectors: [["app-about"]], decls: 22, vars: 6, consts: [[1, "form-container"], ["mat-card-image", "", "src", "assets/images/developer/pranaysmokal.png", 2, "height", "300px"], [2, "margin-bottom", "20px", "margin-left", "10px", "margin-top", "20px"], [2, "margin-top", "20px", "margin-left", "10px"], ["href", "mailto:pranay.mokal@gmail.com"], ["mat-raised-button", ""], ["routerLink", "/feedback", "mat-raised-button", ""]], template: function AboutComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "mat-card");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "img", 1);
