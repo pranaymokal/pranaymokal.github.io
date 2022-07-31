@@ -73,6 +73,7 @@
     "appdeveloper" : "संकेतस्थळ विकासक",
     "pranaymokal" : "प्रणय संजय मोकल",
     "feedback": "अभिप्राय पाठवा",
-    "addrecepie" : "पाककृती लिहा",
-    "typefeedbackhere" : "येथे अभिप्राय लिहा"
+    "createrecipe" : "पाककृती लिहा",
+    "typefeedbackhere" : "येथे अभिप्राय लिहा",
+    "publishrecipe":"प्रकाशित करा"
 }

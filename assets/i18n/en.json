@@ -55,7 +55,7 @@
   "createevent":"Create Event",
   "eventLocation":"Event Location",
   "signin": "Sign In",
-  "recepies" : "Recepies",
+  "recepies" : "Recipes",
   "blogname" : "Blog Name",
   "blogcategories":"Blog categories",
   "writebloghere" : "Write blog here",
@@ -70,8 +70,10 @@
   "pranaymokal" : "Pranay Sanjay Mokal",
   "feedback": "Send Feedback",
   "addrecepie" : "Add Recepie",
-  "recepiename" : "Recepie Name",
-  "recepiecategories" : "Recepie Category",
-  "writerecepieshere": "Write Recepie Here",
-  "typefeedbackhere" : "Type Feedback Here"
+  "recepiename" : "Recipe Name",
+  "recepiecategories" : "Recipe Category",
+  "writerecepieshere": "Write Recipe Here",
+  "typefeedbackhere" : "Type Feedback Here",
+  "publishrecipe":"Publish Recipe",
+  "createrecipe":"Create Recipe"
   }
