@@ -26,7 +26,6 @@
   "developername": "Developer name",
   "about": "About me",
   "email": "Email",
-  "contact": "contact",
   "pranay_mokal": "Pranay Sanjay Mokal",
   "login": "Login",
   "username": "Username",
@@ -77,5 +76,7 @@
   "publishrecipe":"Publish Recipe",
   "createrecipe":"Create Recipe",
   "gallery": "Photo gallery",
-  "pranaym": "Pranay.Mokal"
+  "pranaym": "Pranay.Mokal",
+  "contact":"Contact",
+  "resume" : "Resume"
   }
