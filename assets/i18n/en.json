@@ -1,6 +1,6 @@
 {
   "home": "Home",
-  "writerhub": "The Writer Hub",
+  "writerhub": "http://pranaymokal.github.io",
   "language": "Language",
   "orange": "Orange",
   "yellow": "Yellow",
@@ -76,5 +76,6 @@
   "typefeedbackhere" : "Type Feedback Here",
   "publishrecipe":"Publish Recipe",
   "createrecipe":"Create Recipe",
-  "gallery": "Photo gallery"
+  "gallery": "Photo gallery",
+  "pranaym": "Pranay.Mokal"
   }
