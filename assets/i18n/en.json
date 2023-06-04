@@ -89,10 +89,13 @@
   "projectexperience": "Project & Experience",
   "myphotos" : "My Photos",
   "myphotogallary" : "My Photo Gallary",
+  "photogallary" : "Photo Gallary",
   "friendcircle" : "Friend Circle",
   "myfriendcircle" : "My Friend Circle",
   "hobbies": "Hobbies",
   "hobbiesandcreativity": "Hobbies & Creativity",
   "singing": "Singing",
-  "crafting" : "Crafting"
+  "crafting" : "Crafting",
+  "contactme":"Contact me",
+  "aboutme": "About me"
   }
