@@ -78,5 +78,21 @@
   "gallery": "Photo gallery",
   "pranaym": "Pranay.Mokal",
   "contact":"Contact",
-  "resume" : "Resume"
+  "resume" : "Resume",
+  "basicdetails":"Basic Details",
+  "education": "Education",
+  "skills":"Skills",
+  "educationdetails": "Educational Details",
+  "personaldetails" : "Personal Details",
+  "skillsexperties": "Skills & Experties",
+  "experience" : "Experience",
+  "projectexperience": "Project & Experience",
+  "myphotos" : "My Photos",
+  "myphotogallary" : "My Photo Gallary",
+  "friendcircle" : "Friend Circle",
+  "myfriendcircle" : "My Friend Circle",
+  "hobbies": "Hobbies",
+  "hobbiesandcreativity": "Hobbies & Creativity",
+  "singing": "Singing",
+  "crafting" : "Crafting"
   }
